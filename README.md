@@ -8,15 +8,15 @@ Full-Stack & Applied AI Engineer specialising in building scalable web applicati
 
 > **Note on Repositories:** Primary production applications and client platforms are maintained in private repositories for proprietary, commercial, or client privacy reasons. Live deployments are linked below; architecture walkthroughs and code samples are available during interview discussions.
 
-* **[Travelime](https://travelime.me)** — *AI-Powered Travel Itinerary Generator*
-  * Generates intelligent, personalized travel itineraries using real-time LLM orchestration.
-  * **Stack:** Next.js (App Router), Tailwind CSS, Supabase (PostgreSQL), Gemini API.
-  * **Key Highlights:** Streaming AI responses, robust relational schema design, responsive mobile-first UI.
-
 * **[TradesHelper](https://tradeshelper.app)** — *Field Administration & Job Tracking Tool*
   * Mobile-first operations platform designed to streamline scheduling, client records, and job estimation for trades professionals.
   * **Stack:** Next.js, TypeScript, PostgreSQL, Serverless Functions.
   * **Key Highlights:** Offline-capable design patterns, structured workflows, role-based access control.
+    
+* **[Travelime](https://travelime.me)** — *AI-Powered Travel Itinerary Generator*
+  * Generates intelligent, personalized travel itineraries using real-time LLM orchestration.
+  * **Stack:** Next.js (App Router), Tailwind CSS, Supabase (PostgreSQL), Gemini API.
+  * **Key Highlights:** Streaming AI responses, robust relational schema design, responsive mobile-first UI.
 
 * **Commercial & Client Infrastructure**
   * Production WordPress builds, headless CMS integrations, and automated operational pipelines (invoicing, webhooks, and CRM syncing).
