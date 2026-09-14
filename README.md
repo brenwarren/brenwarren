@@ -9,9 +9,9 @@ Full-Stack & Applied AI Engineer specialising in building scalable web applicati
 > **Note on Repositories:** Primary production applications and client platforms are maintained in private repositories for proprietary, commercial, or client privacy reasons. Live deployments are linked below; architecture walkthroughs and code samples are available during interview discussions.
 
 * **[TradesHelper](https://tradeshelper.app)** — *Field Administration & Job Tracking Tool*
-  * Mobile-first operations platform designed to streamline scheduling, client records, and job estimation for trades professionals.
-  * **Stack:** Next.js, TypeScript, PostgreSQL, Serverless Functions.
-  * **Key Highlights:** Offline-capable design patterns, structured workflows, role-based access control.
+  * Mobile-first operations platform designed to streamline scheduling, client & job records, and smart invoicing functions for trades professionals.
+  * **Stack:** Next.js, TypeScript, PostgreSQL, Serverless Functions, AI prompt & parsing engineering.
+  * **Key Highlights:** AI API integrations, structured workflows, role-based access control.
     
 * **[Travelime](https://travelime.me)** — *AI-Powered Travel Itinerary Generator*
   * Generates intelligent, personalized travel itineraries using real-time LLM orchestration.
