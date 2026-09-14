@@ -6,7 +6,7 @@ Full-Stack & Applied AI Engineer specialising in building scalable web applicati
 
 ### 🚀 Production Applications & Builds
 
-> **Note on Repositories:** Primary production applications and client platforms are maintained in private repositories for proprietary, commercial, or client privacy reasons. Live deployments are linked below; architecture walkthroughs and code samples are available during interview discussions.
+> **Note on Repositories:** Primary production applications and client platforms are maintained in private repositories for proprietary, commercial, or client privacy reasons.
 
 * **[TradesHelper](https://tradeshelper.app)** — *Field Administration & Job Tracking Tool*
   * Mobile-first operations platform designed to streamline scheduling, client & job records, and smart invoicing functions for trades professionals.
