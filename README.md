@@ -39,6 +39,6 @@ Full-Stack & Applied AI Engineer specialising in building scalable web applicati
 ### 📫 Portfolio & LinkedIn
 
 * **Portfolio / Web:**
-* https://tradeshelper.app/
-* https://travelime.me/
+  https://tradeshelper.app/
+  https://travelime.me/
 * **LinkedIn:** http://linkedin.com/in/brenwarren
