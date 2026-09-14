@@ -18,17 +18,14 @@ Full-Stack & Applied AI Engineer specialising in building scalable web applicati
   * **Stack:** Next.js (App Router), Tailwind CSS, Supabase (PostgreSQL), Gemini API.
   * **Key Highlights:** Streaming AI responses, robust relational schema design, responsive mobile-first UI.
 
-* **Commercial & Client Infrastructure**
-  * Production WordPress builds, headless CMS integrations, and automated operational pipelines (invoicing, webhooks, and CRM syncing).
-
 ---
 
 ### 🛠️ Technical Toolkit
 
 * **Languages & Core:** TypeScript, JavaScript (ES6+), Python, HTML5, CSS3/Tailwind CSS, SQL
-* **Frameworks & Libraries:** Next.js, React, Node.js, Express, Pydantic
+* **Frameworks & Libraries:** Next.js, React, Node.js, Express
 * **AI & LLM Integration:** Google Gemini API, OpenAI APIs, Prompt Engineering, Structured Tool Calling / Function Calling
-* **Data & Storage:** PostgreSQL, Supabase, Prisma, Redis
+* **Data & Storage:** PostgreSQL, Supabase
 * **DevOps & Tooling:** Git, GitHub Actions, Docker, Linux, RESTful APIs
 
 ---
@@ -36,12 +33,10 @@ Full-Stack & Applied AI Engineer specialising in building scalable web applicati
 ### 📈 Development Activity
 
 * Daily development activity is tracked across both public projects and active private repositories via the contribution calendar below.
-* Code walkthroughs, repository architecture documentation, or temporary read-only collaborator access are readily provided upon request.
 
 ---
 
-### 📫 Connect & Contact
+### 📫 Portfolio & LinkedIn
 
-* **Portfolio / Web:** [Your Portfolio URL or Website]
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/)
-* **Email:** [your-email@example.com]
+* **Portfolio / Web:** https://tradeshelper.app/ https://travelime.me/
+* **LinkedIn:** http://linkedin.com/in/brenwarren
